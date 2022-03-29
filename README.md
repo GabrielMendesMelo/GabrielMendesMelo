@@ -12,11 +12,11 @@
 
 [:computer: Repositórios Github](https://github.com/GabrielMendesMelo?tab=repositories)
 
-<!---[:musical_score: Composições](https://soundcloud.com/user-737318407)--->
+<!--- [:musical_score: Composições](https://soundcloud.com/user-737318407) --->
 
 <h2>Contato</h2>
 
-<!---:briefcase: Recebo trabalhos como freelancer pelo ********fiverr***********--->
+<!--- [:briefcase: Recebo trabalhos como freelancer pelo fiverr](https://www.fiverr.com/gabrielmendesm) --->
 
 📫 gabrielmendesmjogos@gmail.com
 
