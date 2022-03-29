@@ -10,7 +10,7 @@
 
 [:hammer: Modelos e animações 3D](https://sketchfab.com/gabrielmendesm)
 
-[:computer: Repositório Github](https://github.com/GabrielMendesMelo)
+[:computer: Repositórios Github](https://github.com/GabrielMendesMelo?tab=repositories)
 
 <!---[:musical_score: Composições](https://soundcloud.com/user-737318407)--->
 
