@@ -12,7 +12,7 @@
 
 [:computer: Repositórios Github](https://github.com/GabrielMendesMelo?tab=repositories)
 
-<!--- [:musical_score: Composições](https://soundcloud.com/user-737318407) --->
+[:musical_score: Composições e Efeitos sonoros](https://soundcloud.com/user-737318407/albums)
 
 <h2>Contato</h2>
 
