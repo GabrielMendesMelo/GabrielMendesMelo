@@ -14,6 +14,8 @@
 
 [:musical_score: Composições e Efeitos sonoros](https://soundcloud.com/user-737318407/albums)
 
+[:link: Linktree](https://linktr.ee/gabrielmendesm)
+
 <h2>Contato</h2>
 
 :envelope: gabrielmendesmjogos@gmail.com
